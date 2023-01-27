@@ -1,0 +1,121 @@
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+    font-size: 40px;
+    align-items: left 100px;
+}
+
+
+
+.btn{
+    display: flex;
+    justify-content:center;
+    background-color:rgb(214, 139, 53);
+    border-width:3px;
+    height:40px;
+    color:rgb(243, 236, 236);
+    padding:15px 32px;
+    text-align:center;
+    display:inline-block;
+    font-size:16px;
+    padding:10px;
+}
+.body{
+    background-color: whitesmoke;
+    display: block;
+    box-sizing: border-box;
+    width: fit-content;
+    margin: 10px;
+    align-items: center;
+}
+.text {
+    justify-content: space-evenly;
+    display: flex;
+    position: absolute;
+    top: 200px;
+    font-size: 80px;
+    left: -500px;
+    right: 80px;
+    width: 100%;
+    margin: 0 auto;
+    width: 300px;
+    height: 50px;
+    color: azure
+}
+.image2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    border: soild #b3b4b5;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: ;
+
+
+}
+.image4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    border: soild #b3b4b5;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: ;
+
+
+}
+
+.image5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    border: soild #b3b4b5;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: ;
+
+
+}
+
+.image6{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    border: soild #b3b4b5;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: ;
+
+
+}
+
+
+.list {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: bottom;
+    border: 3px solid;
+    font-size: large;
+
+
+}
+
+.list-info {
+    font-size: 25px;
+    align-content: bottom 10px;
+}
+
+.social {
+    font-size: 25px;
+}
+
+.shows {
+    font-size: 25px;
+}

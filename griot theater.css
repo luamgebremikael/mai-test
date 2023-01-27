@@ -1,0 +1,38 @@
+.image2{
+    display:grid;
+    grid-template-rows: 200px 250px;
+    grid-auto-rows: minmax(150px,auto);
+    grid-gap:20px;
+}
+.image1{
+    width:auto;
+    height:80px;
+    display:flex;
+  
+
+}
+.h2{
+    position: absolute;
+    top:200;
+    left:0;
+    width:100%;
+}
+.head{
+    justify-content: space-evenly;
+    display:flex;
+ 
+
+}
+.btn{
+    display: flex;
+    justify-content:center;
+    background-color:yellow;
+    border-width:3px;
+    height:40px;
+    color:white;
+    padding:15px 32px;
+    text-align:center;
+    display:inline-block;
+    font-size:16px;
+    padding:10px;
+}
